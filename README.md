@@ -1,7 +1,7 @@
 # SplCh_App
 
 <h2> Overview </h2>
-This project is a supply chain management application built on a blockchain platform. The app provides a secure and transparent way for users to track the movement of goods from the source to the final destination, ensuring that the products are authentic, high-quality, and safe for consumption.
+This app provides a secure and transparent way for users to track the movement of goods from the source to the final destination, ensuring that the products are authentic, high-quality, and safe for consumption.
 
 <h2>Features</h2>
 Decentralized platform: The app is built on a blockchain network, which ensures that all transactions are secure, transparent, and tamper-proof. </br>
