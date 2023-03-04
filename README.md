@@ -9,3 +9,5 @@ This project is a supply chain management application built on a blockchain plat
 **Product information:** The app provides detailed information about each product, including its origin, quality, and certification.
 **Smart contracts:** The app uses smart contracts to automate the supply chain process, ensuring that all parties involved are held accountable and that the products are delivered on time and in the expected condition.
 **User authentication:** The app requires users to authenticate their identity before accessing the platform, ensuring that only authorized personnel have access to sensitive data.
+
+
