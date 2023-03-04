@@ -4,7 +4,7 @@
 This project is a supply chain management application built on a blockchain platform. The app provides a secure and transparent way for users to track the movement of goods from the source to the final destination, ensuring that the products are authentic, high-quality, and safe for consumption.
 
 <h2>Features</h2>
-**Decentralized platform:** The app is built on a blockchain network, which ensures that all transactions are secure, transparent, and tamper-proof.
+**Decentralized platform** : The app is built on a blockchain network, which ensures that all transactions are secure, transparent, and tamper-proof.
 **Supply chain tracking:** The app enables users to track the movement of goods at every stage of the supply chain, from the source to the final destination, ensuring that the products are authentic and safe for consumption.
 **Product information:** The app provides detailed information about each product, including its origin, quality, and certification.
 **Smart contracts:** The app uses smart contracts to automate the supply chain process, ensuring that all parties involved are held accountable and that the products are delivered on time and in the expected condition.
